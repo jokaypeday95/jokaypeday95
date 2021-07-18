@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Joko Saputro
 ## I'm a Trainer, Teacher and IT Consultant
 - 🔭 I’m currently working on **Bung Karno University**
-- 🌱 I’m currently learning **AI & Data Science**
+- 🌱 I’m currently learning **Python Programming, AI & Data Science**
 - 👯 I’m looking to collaborate with other content creators
 
 <!--
