@@ -1,4 +1,9 @@
-### Hi there 👋
+## Hi there 👋 I'm Joko Saputro
+
+## I'm a Trainer, Teacher and IT Consultant
+- 🔭 I’m currently working on **Bung Karno University**
+- 🌱 I’m currently learning **AI & Data Science**
+- 👯 I’m looking to collaborate with other content creators
 
 <!--
 **jokaypeday95/jokaypeday95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
